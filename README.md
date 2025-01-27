@@ -5,4 +5,4 @@ Comprehensive Research of Embedded Neuromorphic Approaches
 
 
 TALHA KORUK
-Bursa Teknik Üniversity
+Bursa Teknik University
