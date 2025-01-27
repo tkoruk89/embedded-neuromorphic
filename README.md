@@ -1,14 +1,14 @@
 # embedded-neuromorphic
 Comprehensive Research of Embedded Neuromorphic Approaches
-/
-/
-/
-/
-/
-/
-/
+\
+\
+\
+\
+\
+\
+\
 
 
 
-TALHA KORUK /
+TALHA KORUK \
 Bursa Teknik University
