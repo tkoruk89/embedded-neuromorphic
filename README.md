@@ -1,4 +1,4 @@
-# Embedded Neuromorphic Researches
+# Embedded Neuromorphic Research
 Comprehensive Research of Embedded Neuromorphic Approaches
 \
 \
